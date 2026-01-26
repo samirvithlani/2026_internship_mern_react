@@ -1,0 +1,63 @@
+MERN :
+
+mongo db :data store
+express: middleware fw
+react js : frontend framework
+node js : backend framework
+
+php, jsp ser...
+MVC:
+
+story : facebook:
+php:
+frontend:php
+backend : php
+
+frontend: --> backend
+backend :--> frontend:
+
+x -func : php
+
+tight bonded:
+angular:
+
+frontend:
+ framework: react js
+backend:
+
+n tire arch
+
+React js --> node js
+
+
+node js:
+cmd :- node :
+https://nodejs.org/en/download
+
+vs code : --> install -->
+---->
+
+npm:node package manager:
+node_modules --> manage
+dist / build -> js
+
+
+d:
+  projects
+     MERN
+       frontend
+	  ctrl+l -->type cmd
+	  npm create vite
+		press y
+	project name:learning26
+	            : react
+                    : javascript
+	cd learning26
+	npm install	
+	code .  -->if this command not work   
+
+
+	open terminal
+	change profile to cmd :
+	npm run dev		
+	
