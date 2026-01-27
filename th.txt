@@ -60,4 +60,12 @@ d:
 	open terminal
 	change profile to cmd :
 	npm run dev		
-	
+
+--------------------------------------
+javascript:
+var dec
+string: function	
+array : map,filter,foreach
+json,json array,
+function create , callback function, arrow function
+Promise:
