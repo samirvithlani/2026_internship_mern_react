@@ -69,3 +69,32 @@ array : map,filter,foreach
 json,json array,
 function create , callback function, arrow function
 Promise:
+
+
+class based component
+function based component
+
+react js : v16.x function component
+
+js :- arrow function, function
+
+src : components
+         HeaderComponent.jsx
+		   -->Load App.jsx --> check import statm...
+		FooterComponent.jsx
+			-->Clean app.jsx   
+		ContentComponent.jsx	
+			app.jsx -- >copy that to content..
+			load app.jsx	
+assets : please check it is avaialble.....
+	   -- > css
+	          -->header.css		
+footer : inline css
+contnent: inline css			  
+
+
+export default --> without {} import
+export const --> with {} import
+
+why className ??? not class ...
+
