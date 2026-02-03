@@ -128,3 +128,25 @@ for(let i=0;i<cars.length;i++){
 					)
             })
 }
+
+
+react routing.....
+<a href="url">
+
+react-router-dom
+npm i react-router-dom
+
+<BrowserRouter> ?? it enables routing in react application  main.jsx..
+<Routes> : it will hold all route
+<Route> : it will create url and maintain element
+
+NetflixMovies.jsx -->url -->app.jsx
+NetflixShows.jsx -->url->app.jsx
+NetflixHome.jsx -->url -->app.jsx
+
+
+  -->Navbar.jsx --> bootstrap ..
+
+
+single page application -->react js angular..... page should not refresh..  
+
