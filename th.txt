@@ -150,3 +150,11 @@ NetflixHome.jsx -->url -->app.jsx
 
 single page application -->react js angular..... page should not refresh..  
 
+Nested / Dynamic routing...
+
+url -->data
+
+-->404 page impl....
+-->watchComponent --> url reg --> app.js routes..
+--->shows --> hardcoded impl of watch/moviename
+-->movies --> array --> iterate ---> watch --> url..

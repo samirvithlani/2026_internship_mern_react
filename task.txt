@@ -15,3 +15,16 @@ atleast table with image
 
 **** if image is misisng in any row print there image is missin....
 extra 3 components: routing...
+
+
+task:
+Teams --> 10 teams 
+<li>csk
+<li>mi
+<li>rcb
+
+csk --> clik 
+
+-->TeamDetail
+/teamdetail/csk -->
+playing csk...

@@ -16,6 +16,8 @@ import { NetflixMovies } from "./components/NetflixMovies";
 import { NetflixShows } from "./components/NetflixShows";
 import { Navbar } from "./components/Navbar";
 import { HomeComponent } from "./components/HomeComponent";
+import { ErrorNotFound } from "./components/ErrorNotFound";
+import { Watch } from "./components/Watch";
 
 function App() {
   return (
@@ -27,6 +29,8 @@ function App() {
         <Route path="/netflixmovies" element={<NetflixMovies />}></Route>
         <Route path="/netflixshows" element={<NetflixShows />}></Route>
         <Route path="/" element = {<HomeComponent/>}></Route>
+        <Route path="/watch/:name" element = {<Watch/>}></Route>
+        <Route path="/*" element = {<ErrorNotFound/>}></Route>
       </Routes>
     </div>
   );
