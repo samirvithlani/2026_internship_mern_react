@@ -28,3 +28,7 @@ csk --> clik
 -->TeamDetail
 /teamdetail/csk -->
 playing csk...
+
+
+reserch on vdom
+pros and cons of useing useState

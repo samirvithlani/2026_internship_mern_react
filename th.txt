@@ -158,3 +158,45 @@ url -->data
 -->watchComponent --> url reg --> app.js routes..
 --->shows --> hardcoded impl of watch/moviename
 -->movies --> array --> iterate ---> watch --> url..
+
+
+var x = ["amit",'sumit']
+console.log(x)
+
+//push
+var ans = x.push("raj") //return type number ->new len of an array
+console.log(ans)
+console.log(x)
+
+
+var y = ["parth","raj"]
+console.log(y)
+var ycopy = [...y,"ajay"]
+console.log(ycopy)
+
+
+
+react js hooks:
+
+hook is either componennt life cycle or builtin functions
+
+hooks: function based 
+all hookes either its predefine, thirdparth udf all name starts with use
+
+useState
+useEffect
+useRef
+useParams
+
+
+useState :single page application: react state --> refresh..
+
+----->DOM:document object model
+
+HTML -->js -->dynami content full dom update
+js --> DOM ->update -->dom object fully update
+
+DOM -->V-DOM ->process --> comp--algoo --> VDOM change --> og dom compare ---> changes --> og dom
+MONDAY in detaill doc--->
+
+useState
