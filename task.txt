@@ -32,3 +32,9 @@ playing csk...
 
 reserch on vdom
 pros and cons of useing useState
+
+task:
+demonstrate props: using 3 components 
+create reusbale table using props:
+
+create 10 inouts in single compoents: like name age email password.......
