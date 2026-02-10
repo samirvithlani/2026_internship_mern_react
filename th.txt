@@ -200,3 +200,38 @@ DOM -->V-DOM ->process --> comp--algoo --> VDOM change --> og dom compare ---> c
 MONDAY in detaill doc--->
 
 useState
+
+
+react js component based arch:
+realation:
+parent component --> child componnet
+
+how to communicate bw components
+
+props :p --> c
+
+context :p -->c -->c --->c
+	 :
+redux : state management tool : 
+
+
+how to create reusable component in react js:
+
+parent --> child ---> ----> ---> no data
+
+ -->props drlling...
+
+
+ EMployees 
+   title,
+   compnay
+   array
+ EmployeeList
+    props
+
+	array 
+
+ SubEmployeeList:
+	props -->empty -->
+
+	drilling ...
