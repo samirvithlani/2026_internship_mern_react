@@ -38,3 +38,25 @@ demonstrate props: using 3 components
 create reusbale table using props:
 
 create 10 inouts in single compoents: like name age email password.......
+
+input task:
+create submit button : click onCLick --> function
+
+output section -->data display
+HINT: flag --.submitted
+
+
+depedent dropdown
+
+country:select
+state:
+json array design
+
+
+FORMS:
+react-hook-form -->form handling
+formik
+
+npm i react-hook-form
+
+3 form : 5 fileds 
