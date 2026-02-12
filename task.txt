@@ -59,4 +59,7 @@ formik
 
 npm i react-hook-form
 
-3 form : 5 fileds 
+3 form : 5 fileds
+
+12-02-2025
+2 form with validations

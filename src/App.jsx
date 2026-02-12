@@ -26,6 +26,7 @@ import { Employees } from "./components/Employees";
 import { InputDemo1 } from "./components/input/InputDemo1";
 import { InputDemo2 } from "./components/input/InputDemo2";
 import { FormDemo1 } from "./components/form/FormDemo1";
+import { FormDemo2 } from "./components/form/FormDemo2";
 
 function App() {
   return (
@@ -46,6 +47,8 @@ function App() {
         <Route path="/inputdemo1" element = {<InputDemo1/>}></Route>
         <Route path="/inputdemo2" element = {<InputDemo2/>}></Route>
         <Route path="/formdemo1" element = {<FormDemo1/>}></Route>
+        <Route path="/formdemo2" element = {<FormDemo2/>}></Route>
+
         <Route path="/*" element = {<ErrorNotFound/>}></Route>
       </Routes>
     </div>

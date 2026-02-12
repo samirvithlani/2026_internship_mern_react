@@ -22,7 +22,7 @@ export const Navbar = () => {
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
+            {/* <li class="nav-item active">
               <Link class="nav-link" to="/netflixhome">
                 NEtflix Home
               </Link>
@@ -56,7 +56,7 @@ export const Navbar = () => {
               <Link class="nav-link" to="/usestatedemo3">
                 usestatedemo3
               </Link>
-            </li>
+            </li> */}
             <li class="nav-item">
               <Link class="nav-link" to="/employees">
                 employees
@@ -76,6 +76,11 @@ export const Navbar = () => {
             <li class="nav-item">
               <Link class="nav-link" to="/formdemo1">
                 formdemo1
+              </Link>
+            </li>
+            <li class="nav-item">
+              <Link class="nav-link" to="/formdemo2">
+                formdemo2
               </Link>
             </li>
 

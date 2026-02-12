@@ -235,3 +235,22 @@ parent --> child ---> ----> ---> no data
 	props -->empty -->
 
 	drilling ...
+
+
+
+{
+	required:
+	{
+		value:true,
+		message:"Age is Required*"
+	}
+}
+{
+            required:
+			{
+                value:true,
+                message:"Age is Required*"
+            }
+}
+
+?. optional chaining..
