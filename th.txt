@@ -254,3 +254,32 @@ parent --> child ---> ----> ---> no data
 }
 
 ?. optional chaining..
+
+
+validation:
+1 form : --all validation:
+
+watch task:
+
+form --> password
+
+min 1 cap
+min 1 small
+len 8>
+special char
+1 digit
+
+<input type "password">...
+
+by default all print in black color
+-->when you start inserting password
+
+eg:Sa1_sahasusa
+
+<p>1 char cap<p>  --> it converts to green
+<p>1 char small<p>  -->green
+<p>1 char digit<p>  --> gren
+<p>1 char special<p>
+<p>8 cahr<p>
+
+promise: json array -- map filter...
