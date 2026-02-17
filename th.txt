@@ -281,5 +281,88 @@ eg:Sa1_sahasusa
 <p>1 char digit<p>  --> gren
 <p>1 char special<p>
 <p>8 cahr<p>
-
 promise: json array -- map filter...
+
+API CALLING:
+
+application prg interface
+
+frontend end : react  --> database connectivtiy
+	Java Object --> fetch no
+	Genric -->
+	URL :
+	website:
+	data data transfer : APIs
+
+	uber -->map : google map --> url ->api
+
+	ahmedabad weather :
+
+backend end : java,php
+
+producer api:
+consumer api:
+
+api : instruction: request method
+type:
+
+GET
+POST
+PUT
+DELETE
+
+backend:
+GET: database fetch --> frontend -->send --->
+POST: frontend [andorid  web framework] -->get ---> database 
+PUT:update:
+DELETE : 
+
+frontend:
+GET: database -->frontend display:
+POST  : form --data ---> 
+DELETE:
+UDPATE:
+
+data type: JSON
+-->xml -->JSON
+->SOAP -->rest
+
+
+browser can call only get api
+
+react js:
+js --> fetch function : apis
+3rd party
+axios
+
+npm i axios
+------------------------>
+
+componennt:
+function --> api call --> response -->
+check --> pending
+await -->
+console -->response
+response.data
+res.data.message
+res.data.data
+
+-->
+useSate message set --> 
+return print
+
+useSatet data -->
+print map-->
+
+task: table:
+
+https://node5.onrender.com/user/user/
+
+
+https://dummyjson.com/products : call : table print
+
+https://dummyjson.com/comments : calll table print...
+
+
+
+
