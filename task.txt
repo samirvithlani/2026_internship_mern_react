@@ -63,3 +63,25 @@ npm i react-hook-form
 
 12-02-2025
 2 form with validations
+
+
+
+18-02-2025
+Grid movie data
+
+detail button... -->Moive Detail componnet
+    on click --> in url send imdbid-->
+
+-->
+movieDetail -->fetch id from url using useParams()
+function movieDetail -->
+
+https://www.omdbapi.com/?apikey=apikey&i=useaprams id -->
+
+task2:
+take input type text --> moviename
+
+task3:ApiDemo3
+form -->  name,email,age,isActive,password  -->submit -->handleSubmit --> async submitHanlder(data) --> api --> post("url",data)
+Note: --> take register name as per api param.. api name -->register name
+

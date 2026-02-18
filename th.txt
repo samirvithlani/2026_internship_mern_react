@@ -364,5 +364,23 @@ https://dummyjson.com/products : call : table print
 https://dummyjson.com/comments : calll table print...
 
 
+:frontend:
+POST --> data collect -->backend -->
+
+->frontend form --> name email age password..
+
+
+-->backend --> firstName userEmail userAge userPassword  --> null undfined..
+
+POST : https://node5.onrender.com/user/user/
+{
+	  "name": "Shyam",
+      "email": "Shaym3@gmail.com",
+      "password": "",
+      "age": 25,
+      "isActive": true,
+}
+
+
 
 
